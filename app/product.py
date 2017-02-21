@@ -12,9 +12,10 @@ class ProductSaveException(ValueError):
 
 class Product(object):
     def __init__(
-        self, monufacturer=None, model=None, amount=None, price=None, bprice=None,
+        self, id=None, monufacturer=None, model=None, amount=None, price=None, bprice=None,
             description=None, image=None
-    ):
+    ):  
+        self.id = id
         self.monufacturer = monufacturer
         self.model = model
         self.amount = int(amount) if amount else None
@@ -65,7 +66,17 @@ class Product(object):
         kwargs['_id'] = ObjectId(kwargs['_id'])
         return db.products.find_one(kwargs)
 
-    def update(self, ident, value):
+    def update(self):
         db = MongoClient().shop
+        ident = {'_id': self.id}
+        value = {
+            'monufacturer': self.monufacturer,
+            'model': self.model,
+            'amount': self.amount,
+            'price': self.price,
+            'description': self.description,
+            'image': self.image,
+            'bprice': self.bprice
+        }
         res = db.products.update_one(ident, value)
         return res.matched_count

@@ -1,0 +1,592 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pr",
+				"price"
+			],
+			[
+				"Pro",
+				"ProductSave"
+			],
+			[
+				"te",
+				"templates"
+			],
+			[
+				"add",
+				"add_product"
+			],
+			[
+				"mt",
+				"meta\tTag"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"Then",
+				"then"
+			],
+			[
+				"except",
+				"WebDriverException"
+			],
+			[
+				"G",
+				"GenericDictParser"
+			],
+			[
+				"P",
+				"Parser"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "product.py",
+			"settings":
+			{
+				"buffer_size": 2177,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "admin_panel.py",
+			"settings":
+			{
+				"buffer_size": 2010,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/home.tpl",
+			"settings":
+			{
+				"buffer_size": 859,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/add_product.tpl",
+			"settings":
+			{
+				"buffer_size": 1019,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/edit_product.tpl",
+			"settings":
+			{
+				"buffer_size": 1054,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/header.tpl",
+			"settings":
+			{
+				"buffer_size": 122,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 369.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/vk/doc/projects/shop/product.py",
+		"/home/vk/doc/projects/shop/templates/home.tpl",
+		"/home/vk/.wine/dosdevices/c:/Program Files (x86)/Forgotten World Ultima Online/inj/Injection.dll",
+		"/home/vk/.wine/dosdevices/c:/Program Files (x86)/Forgotten World Ultima Online/inj/expat.dll",
+		"/home/vk/doc/projects/shop/home.tpl",
+		"/home/vk/doc/projects/moto/moto.py",
+		"/home/vk/doc/projects/ticketscloud/tests/tc_selenium/environment.py",
+		"/home/vk/doc/projects/ticketscloud/tests/tc_selenium/features/check_the_settings_ul.feature",
+		"/home/vk/doc/projects/ticketscloud/tests/tc_selenium/steps/accept_offer.py",
+		"/home/vk/doc/projects/ticketscloud/tests/tc_selenium/features/check_the_settings_rasp.feature",
+		"/home/vk/doc/projects/ticketscloud/tests/tc_selenium/features/check_the_settings_org.feature",
+		"/home/vk/doc/projects/ticketscloud/tests/tc_selenium/features/check_the_settings_ip.feature",
+		"/home/vk/doc/projects/ticketscloud/tests/tc_selenium/features/approve_partner.feature",
+		"/home/vk/doc/projects/ticketscloud/tests/tc_selenium/features/checking_login_with_new_user.feature",
+		"/home/vk/doc/projects/ticketscloud/tests/tc_selenium/features/approve_partner_n.feature",
+		"/home/vk/doc/projects/ticketscloud/tests/tc_selenium/steps/action_on_window.py",
+		"/home/vk/doc/projects/moto/moto_1.py",
+		"/home/vk/doc/projects/moto/glavnaya.tpl",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/reject_offer.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/accept_offer.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/features/offer_from_org.feature",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/features/offer_from_org_n.feature",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/features/offer_from_rasp_alternately.feature",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/features/offer_from_rasp_with_one_event.feature",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/i_offer_from_rasp.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/i_checking_org_with_copy_event_in_deal_of_rasp.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/i_copy_eveny.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/i_create_event.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/common.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/checking_events_in_deals.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/send_offer.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/save_requisites_with_valid_data_ip.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/get_user_data_from_http.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/approve_partner.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/registration_already_registred_user.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/features/simple_test_of_deal_ip_ip.feature",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/features/cheching_org_with_copy_event_in_deal_of_rasp.feature",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/copy_the_event_and_check_changes.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/features/cheching_org_with_copy_event_in_deal_of_rasp_n.feature",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/i_simple_test_of_deal_ip_ip.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/delete_event.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/features/simple_test_of_deal_r_o.feature",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/create_event_with_valid_data.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/checking_new_event.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/i_new_partner_env.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/features/simple_test_of_deal_ul_ul.feature",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/features/simple_test_of_deal_ul_ip.feature",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/features/simple_test_of_deal_ip_ul.feature",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/features/simple_test_of_deal_ip_ip_n.feature",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/start_of_sales.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/simple_test_of_deal_ip_ip.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/features/copy_event.feature",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/features/approve_partner_n.feature",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/change_selections_value_and_check_it_ip.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/features/create_event_n.feature",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/features/copy_event_n.feature",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/i_approve_partner.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/features/approve_partner.feature",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/features/create_event.feature",
+		"/home/vk/doc/projects/ticketscloud/tests/tc_selenium/steps/create_event_with_valid_data.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/i_create_new_user.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/login_with_new_user.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/logout_and_go_to_login_page.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/offer_from_rasp_alternately.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/password_recovery.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/registration_with_valid_data.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/save_profile_with_valid_data_org.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/save_requisites_with_valid_data_ul.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/start_the_register_process.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/suggest_your_conditions.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/test2.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/test3.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/test.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/action_on_window.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/can_not_save_requisites_with_invalid_data_ip.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/can_not_save_requisites_with_invalid_data_ul.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/can_not_save_with_invalid_data_org.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/change_field_value_and_check_it_ip.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/change_field_value_and_check_it_org.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/change_field_value_and_check_it_ul.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/change_password(recov).py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/change_selector_to_org.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/change_user_email.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/cheching_fealds_for_valid_re_expression_ip.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/cheching_offer_for_max_commission.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/checking_copy_sets.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/checking_date_feld_with_START_b_END_event.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/checking_date_feld_with_the_last_date_event.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/checking_email.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/checking_empty_fields_for_warnings_event.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/checking_empty_fields_for_warnings_ip.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/checking_empty_fields_for_warnings_org.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/checking_empty_fields_for_warnings_ul.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/checking_new_sets.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/checking_rasp_in_deals_of_org.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/checking_save_acquiring_settings.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/checking_warning_with_invalid_data_in_form.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/check_the_type_of_legals_in_settings.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/check_the_type_of_partner_in_settings.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/chenge_partner_to_agent.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/chenge_partner_to_org.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/copy_org_name.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/copy_rasp_name.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/copy_the_event_and_check_changes_date_of_end.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/copy_the_event_and_check_changes_date_of_start.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/create_new_agent.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/create_set_with_valid_data.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/go_to_create_event_page.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/go_to_page_of_event_create.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/go_to_requisites_editing.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/i_chacking_login_with_new_user.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/i_check_the_settings.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/features/create_new_user_n.feature",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/__init__.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/__init__.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/features/create_new_user_ip_org.feature",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/features/test.feature",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/features/test2.feature",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/features/check_the_settings_n.feature",
+		"/home/vk/doc/projects/shop/datebase.json",
+		"/home/vk/doc/projects/ticketscloud/tests/tc_selenium/__init__.py",
+		"/home/vk/doc/Python3/moto/glavnaya.tpl",
+		"/home/vk/doc/Python3/moto/moto.py",
+		"/home/vk/doc/Python3/moto/moto_1.py",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/features/check_the_settings_rasp.feature",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/features/check_the_settings_org.feature",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/features/check_the_settings_ip.feature",
+		"/home/vk/doc/projects/ticketscloud/prototype/tc_selenium/steps/i_new_partner_ip_org.py"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"td",
+			"print",
+			"URL",
+			"__dict__",
+			"driver",
+			"feature",
+			"after_feature",
+			"feature",
+			"change selections value and check it (ip)",
+			"name",
+			",\n",
+			"scenario",
+			"elements"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "product.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2177,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								602,
+								602
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 42.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "admin_panel.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2010,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1961,
+								1961
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MagicPython/grammars/MagicPython.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 42.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "templates/home.tpl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 859,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								654,
+								654
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "templates/add_product.tpl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1019,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								971,
+								971
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "templates/edit_product.tpl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1054,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1005,
+								1005
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "templates/header.tpl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 122,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								108,
+								108
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "shop.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		]
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 407.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

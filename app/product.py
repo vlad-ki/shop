@@ -14,7 +14,7 @@ class Product(object):
     def __init__(
         self, id=None, monufacturer=None, model=None, amount=None, price=None, bprice=None,
             description=None, image=None
-    ):  
+    ):
         self.id = id
         self.monufacturer = monufacturer
         self.model = model
@@ -43,6 +43,11 @@ class Product(object):
             raise ProductSaveException
 
         db.products.insert(
+            # тут может быть не insert, а update с параметром, который создает новую запить если не находит существующую.
+            # можно сделать проверку на наличие _id.(+) Если _id то вызываем update
+            # хочу что бы для обносления обьекта в монге я менял атрибуты обьекта класса и вызовал .save()
+            # хочу что бы monufacturer и model не хранидись в products, а хранились только их _id и названия подтяшивались по _id
+            # что бы при смене названия менять его в таблице названий а не в каждм продукте по отдельности. 
             {
                 'monufacturer_id': monufacturer_id,
                 'monufacturer': self.monufacturer,
@@ -58,6 +63,7 @@ class Product(object):
         list_of_products = []
         db = MongoClient().shop
         for product in db.products.find():
+            # здесь в список пусть добавляются обекты класса.
             list_of_products.append(product)
         return list_of_products
 
@@ -80,3 +86,10 @@ class Product(object):
         }
         res = db.products.update_one(ident, value)
         return res.matched_count
+
+    def __str__(self):
+        return
+
+# нужен метод который вернут словарь с данными о продукте.
+    def dict():
+        pass
